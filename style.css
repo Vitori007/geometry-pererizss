@@ -21,7 +21,7 @@ header a{
 .menu a:hover{
     font-size:20px;
     color:#e6ffe6;
-    transition:1s, ease-out;
+    transition:1s ease-out;
 }
 nav{
    display:flex;
@@ -29,7 +29,7 @@ nav{
 }
 .menu {
     width:70px;
-    background-color: #0000e6;
+    background-image:url("https://bigfoto.name/uploads/posts/2021-11/1636390079_1-bigfoto-name-p-neitralnii-sinii-fon-1.jpg");
     padding:10px;
     display:flex;
     flex-direction: column;
@@ -40,14 +40,15 @@ nav{
 }
 .menu:hover{
     width:120px;
-    background-color:#0000e6;
-    transition:1s, ease-out;
+    background-color:#000e6;
+    transition:1s ease-out;
 }
 main {
   margin:30px 100px 30px 100px;
 }
 section{
   display:flex;
+  flex-direction: column;
   justify-content:center;
   padding-bottom:30px;
 }
