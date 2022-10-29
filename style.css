@@ -46,6 +46,7 @@ nav{
 main {
   margin:30px 100px 30px 100px;
 }
-img{
-  text-align:center;
+section{
+  display:flex;
+  justify-content:center;
 }
