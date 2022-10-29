@@ -29,7 +29,7 @@ nav{
 }
 .menu {
     width:70px;
-    background: linear-gradient(to right, #3399ff 0%, #ccffff 100%);
+    background: linear-gradient(to right,
     padding:10px;
     display:flex;
     flex-direction: column;
@@ -46,7 +46,7 @@ nav{
 main {
   margin:30px 100px 30px 100px;
 }
-section img{
+article img{
   display:flex;
   flex-direction: column;
   justify-content:center;
